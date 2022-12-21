@@ -1,2 +1,14 @@
-# 13-E-Commerce-Back-End
-AS A manager at an internet retail company I WANT a back end for my e-commerce website that uses the latest technologies SO THAT my company can compete with other e-commerce companies
+# Commerce-Back-End
+
+## Description
+A backend that was created to recevie data. The informaion which is stored within MongoDB.
+
+## Technologies:
+    Node.JS
+    Express.JS
+    MongoDB
+    Mongoose
+
+## Usage
+In order to run program, you would need Insomnia and Visual Studio Code to run the server.
+npm run start
